@@ -1,0 +1,4 @@
+timestamp,service,level,message
+2024-01-01T10:00:00Z,auth,,first row missing level
+2024-01-02T11:00:00Z,auth,,second row missing level
+2024-01-03T12:00:00Z,auth,INFO,normal row

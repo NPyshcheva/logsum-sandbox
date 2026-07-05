@@ -1,0 +1,3 @@
+timestamp,service,level,message
+not-a-date,auth,ERROR,bad timestamp row
+2024-01-02T11:00:00Z,auth,ERROR,valid timestamp row

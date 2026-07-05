@@ -1,0 +1,4 @@
+timestamp,service,level,message
+2024-01-01T10:00:00Z,auth,ERROR,login failed
+2024-01-02T11:00:00Z,auth,ERROR,connection timeout
+2024-01-03T12:00:00Z,gateway,WARN,slow response

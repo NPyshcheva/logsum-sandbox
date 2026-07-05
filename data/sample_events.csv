@@ -1,0 +1,6 @@
+timestamp,level,service,message
+2024-01-01T09:00:00Z,ERROR,auth,Login failed
+2024-01-01T10:30:00Z,error,Auth,Token expired
+2024-01-01T11:00:00Z,WARN,api,Rate limit hit
+2024-01-01T12:00:00Z,,payments,Batch job started
+not-a-date,INFO,db,Connection opened

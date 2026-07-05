@@ -1,0 +1,2 @@
+timestamp,service,level,message
+" 2024-01-02T10:00:00Z "," Auth ","warn ","message with leading spaces"

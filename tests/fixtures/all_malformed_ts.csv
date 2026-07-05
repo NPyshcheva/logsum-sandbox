@@ -1,0 +1,3 @@
+timestamp,service,level,message
+bad-timestamp-1,svc,ERROR,first bad row
+bad-timestamp-2,svc,ERROR,second bad row
